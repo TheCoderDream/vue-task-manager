@@ -1,5 +1,8 @@
 # simpleapp
 
+![TaskManager](https://user-images.githubusercontent.com/26883843/163004674-42b97c9c-e72d-4180-81d9-fe8781cffd4e.gif)
+
+
 ## Project setup
 ```
 npm install
