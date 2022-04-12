@@ -1,0 +1,33 @@
+.tabs {
+    .flex {
+        display: flex;
+    }
+    .cursor-pointer {
+        cursor: pointer;
+    }
+    .ml-auto {
+        margin-left: auto;
+    }
+    .tab {
+        border-width: 2px;
+        border-left: solid;
+        border-top: solid;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        padding: 1.25rem;
+        align-items: center;
+        justify-content: center;
+        &:last-child {
+            border-right: solid;
+        }
+        &.border-4 {
+            font-weight: bold;
+        }
+    }
+    .border-b {
+        border-bottom: 1px solid;
+    }
+    .border-4 {
+        border-width: 4px;
+    }
+}
